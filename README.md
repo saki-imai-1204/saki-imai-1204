@@ -1,4 +1,4 @@
-  <p align="center"><a href="https://github.com/saki-imai-1204/"><src="./assets/banner.png" /></a></p>
+  <p align="center"><a href="https://github.com/saki-imai-1204/"><img src="./assets/banner.png" /></a></p>
   
   <!---
   ### Hello, I'm Saki!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
