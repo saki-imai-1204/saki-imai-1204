@@ -1,3 +1,6 @@
+  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
+  [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+  
 - 👋 Hi, I’m @saki-imai-1204
 - 🌱 I’m currently learning Android software development, Microsoft Azure Services
 - 📫 How to reach me simai24@colby.edu
