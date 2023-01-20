@@ -2,6 +2,7 @@
 <br />
 - 🌱 I’m currently learning Android software development, Microsoft Azure Services
 - 📫 How to reach me simai24@colby.edu
+<br />
 
 #### 📫 Connect with me:
   
