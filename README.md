@@ -1,4 +1,3 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Saki!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 - 🌱 I’m currently learning Android software development, Microsoft Azure Services
