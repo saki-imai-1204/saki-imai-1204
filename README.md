@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saki-imai-1204
-- 🌱 I’m currently learning mobile software development
+- 🌱 I’m currently learning Android software development, Microsoft Azure Services
 - 📫 How to reach me simai24@colby.edu
 
 <!---
