@@ -8,8 +8,7 @@
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/saki-imai-1204/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<a href="simai24@colby.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
 <!---
 saki-imai-1204/saki-imai-1204 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
