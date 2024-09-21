@@ -8,7 +8,7 @@
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
   
 - 👋 Hi, I’m @saki-imai-1204
-- 🌱 I’m currently learning a PhD student at Northeastern University
+- 🌱 I’m currently a PhD student at Northeastern University
 - 📫 How to reach me imai.s@northeastern.edu
 
 #### 📫 Connect with me:
