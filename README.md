@@ -8,14 +8,14 @@
   <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
   
 - 👋 Hi, I’m @saki-imai-1204
-- 🌱 I’m currently learning Android software development, Microsoft Azure Services
-- 📫 How to reach me simai24@colby.edu
+- 🌱 I’m currently learning a PhD student at Northeastern University
+- 📫 How to reach me imai.s@northeastern.edu
 
 #### 📫 Connect with me:
   
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/saki-imai-1204/)
 &nbsp;&nbsp;
-<a href="simai24@colby.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="imai.s@northeastern.edu"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
 <h3 align="left">Languages and Tools:</h3>
